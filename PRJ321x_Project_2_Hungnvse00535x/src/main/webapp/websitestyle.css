@@ -1,0 +1,30 @@
+#img_header {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 20%;
+    height: 20%;
+}
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 96%;
+}
+.price-discount__price {
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 500;
+    margin: 0px 8px 0px 0px;
+}
+.name {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    overflow: hidden;
+}
+.price-discount {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}

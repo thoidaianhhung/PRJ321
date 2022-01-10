@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="jstl-api-1.2-sources" />
+  <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
+    <archive path="C:/Users/ASUS/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
+    <archive path="C:/Users/ASUS/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1">
+    <archive path="C:/Users/ASUS/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1">
+    <archive path="C:/Users/ASUS/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.7.1">
+    <archive path="C:/Users/ASUS/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.7.1">
+    <archive path="C:/Users/ASUS/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/ASUS/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="mysql-connector-java-8.0.25">
+    <archive path="D:/mysql-connector-java-8.0.25/mysql-connector-java-8.0.25.jar" />
+  </library>
+  <library name="bootstrap">
+    <archive path="C:/Users/ASUS/AppData/Roaming/JetBrains/IntelliJIdea2021.2/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.5.2_css_bootstrap.css" />
+    <archive path="C:/Users/ASUS/AppData/Roaming/JetBrains/IntelliJIdea2021.2/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.5.2_js_bootstrap.js" />
+  </library>
+  <library name="jquery">
+    <archive path="C:/Users/ASUS/AppData/Roaming/JetBrains/IntelliJIdea2021.2/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_3.5.1_jquery.js" />
+  </library>
+  <library name="jstl-1.2">
+    <archive path="D:/PRJ321x/JSTL/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" />
+  </library>
+  <library name="mysql-connector-java-8.0.25">
+    <archive path="D:/mysql-connector-java-8.0.25/mysql-connector-java-8.0.25.jar" />
+  </library>
+  <library name="popper.js">
+    <archive path="C:/Users/ASUS/AppData/Roaming/JetBrains/IntelliJIdea2021.2/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.16.0_umd_popper.js" />
+  </library>
+</eclipse-userlibraries>
+

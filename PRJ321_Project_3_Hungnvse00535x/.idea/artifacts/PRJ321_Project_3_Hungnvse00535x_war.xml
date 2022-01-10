@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PRJ321_Project_3_Hungnvse00535x:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>PRJ321_Project_3_Hungnvse00535x</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="PRJ321_Project_3_Hungnvse00535x-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="PRJ321_Project_3_Hungnvse00535x:war exploded" />
+    </root>
+  </artifact>
+</component>
