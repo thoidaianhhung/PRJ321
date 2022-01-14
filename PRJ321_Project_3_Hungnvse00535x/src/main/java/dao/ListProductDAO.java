@@ -13,7 +13,7 @@ public class ListProductDAO {
     DBContext ctx = new DBContext();
 
     public List<Product> search(String characters) throws Exception {
-        String sqlString = "select * from Products where product_name like CONCAT( '%',?,'%')";
+        String sqlString = "select * from Products where products like CONCAT( '%',?,'%')";
         List<Product> result = new ArrayList<>();
         Connection connect = ctx.getConnection();
 
